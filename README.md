@@ -51,7 +51,7 @@ In this project, I have built the Frontend Project of MERN Stack Trainer
 
 <details>
 <summary>React.js: For building the user interface.</summary>
-
+-
 </detail>
 
 <details>
