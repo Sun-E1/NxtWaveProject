@@ -1,0 +1,26 @@
+.button-item-container {
+  list-style-type: none;
+  height: 100%;
+  width: 100%;
+}
+
+.tab-button-active {
+  height: 100%;
+  width: 100%;
+  border: 1px #d7dfe9 solid;
+  background-color: #0b69ff;
+  border-radius: 5px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  color: white;
+  font-family: 'Roboto';
+}
+
+.tab-button-inactive {
+  height: 100%;
+  width: 100%;
+  background-color: #d7dfe93d;
+  border: 1px #d7dfe9 solid;
+  color: black;
+  font-family: 'Roboto';
+}

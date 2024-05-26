@@ -1,0 +1,125 @@
+.add-item-container {
+  height: 91vh;
+  width: 75vw;
+  display: flex;
+}
+
+.add-items {
+  height: 100%;
+  width: 70%;
+}
+
+.arrow-container {
+  height: 25px;
+  width: 100%;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.arrow {
+  width: 22px;
+  height: 22px;
+  color: rgba(23, 31, 70, 1);
+  margin: 5px;
+}
+
+.user {
+  color: rgba(126, 133, 142, 1);
+  font-family: 'roboto';
+}
+
+.details-container {
+  height: 95%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.detail-heading {
+  color: rgba(23, 31, 70, 1);
+  font-family: 'roboto';
+  font-size: 35px;
+  margin: 15px;
+}
+
+.input-container {
+  height: 60px;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.label {
+  font-family: 'roboto';
+  color: rgba(126, 133, 142, 1);
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.input-element {
+  height: 35px;
+  width: 100%;
+  outline: none;
+  border: 1px solid, rgba(215, 223, 233, 1);
+  border-radius: 2px;
+  margin-top: 5px;
+}
+
+.select-container {
+  height: 35px;
+  width: 100%;
+  font-family: 'roboto';
+  border: 1px solid, rgba(215, 223, 233, 1);
+  border-radius: 2px;
+  color: rgba(126, 133, 142, 1);
+}
+
+.description-container {
+  height: 100px;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 15px;
+}
+
+.input-description {
+  height: 80px;
+  width: 100%;
+  outline: none;
+  border: 1px solid, rgba(215, 223, 233, 1);
+  border-radius: 2px;
+  margin-top: 5px;
+}
+
+.button-container {
+  height: 50px;
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  height: 50px;
+  width: 80px;
+  background-color: rgba(11, 105, 255, 1);
+}
+
+.image-container {
+  height: 100%;
+  width: 100%;
+}
+
+.image {
+  width: 90%;
+  height: 100%;
+}
