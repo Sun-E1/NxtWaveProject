@@ -52,24 +52,24 @@ In this project, I have built the Frontend Project of MERN Stack Trainer
 <details>
   <summary>React.js</summary>
  - For building the user interface
-</detail>
+</details>
 
 <details>
   <summary>CSS</summary>
  - For styling the application
-</detail>
+</details>
 
 <details>
   <summary>Fetch API </summary>
  - For making API requests to retrieve resource data
-</detail>
+</details>
 
 <details>
   <summary>React Icons
  - For incorporating icons in the user interface
 </summary>
 
-</detail>
+</details>
 
 ### Challenges
 <details>
@@ -77,21 +77,21 @@ In this project, I have built the Frontend Project of MERN Stack Trainer
     -Implementing a secure and efficient authentication system for user login
 </summary>
 
-</detail>
+</details>
 
 <details>
   <summary>Error Handling
     -Ensuring robust error handling to provide clear feedback to users during login failures
 </summary>
 
-</detail>
+</details>
 
 <details>
   <summary>API Integration
     -Managing API requests and handling data dynamically to keep the resource list updated
 </summary>
 
-</detail>
+</details>
 
 <details>
   <summary>Font-families</summary>
