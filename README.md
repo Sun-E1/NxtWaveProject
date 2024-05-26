@@ -73,22 +73,21 @@ In this project, I have built the Frontend Project of MERN Stack Trainer
 
 ### Challenges
 <details>
-  <summary>Authentication
-    -Implementing a secure and efficient authentication system for user login
+  <summary>Authentication: Implementing a secure and efficient authentication system for user login
 </summary>
 
 </details>
 
 <details>
-  <summary>Error Handling
-    -Ensuring robust error handling to provide clear feedback to users during login failures
+  <summary>Error Handling:
+    Ensuring robust error handling to provide clear feedback to users during login failures
 </summary>
 
 </details>
 
 <details>
-  <summary>API Integration
-    -Managing API requests and handling data dynamically to keep the resource list updated
+  <summary>API Integration: 
+    Managing API requests and handling data dynamically to keep the resource list updated
 </summary>
 
 </details>
